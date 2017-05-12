@@ -1,0 +1,31 @@
+body{
+    padding-top: 70px;
+}
+
+.thumbnail a>img, .thumbnail>img{
+      
+     max-height: 220px;
+}
+
+
+.navbar-inverse{
+    background: #2c3e50;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #FFFFFF;
+}
+
+.navbar-inverse .navbar-brand{
+    color: white;
+    
+}
+.jumbotron {
+     color: #2c3e50; 
+     background: #ecf0f1;   
+}
+h3{
+ padding-left: 90px;
+}
+
+
