@@ -2,10 +2,19 @@ body{
     padding-top: 70px;
 }
 
-.thumbnail a>img, .thumbnail>img{
+/* .thumbnail a>img, .thumbnail>img{
       
      max-height: 220px;
 }
+ */
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+      max-height: 220px;
+    
+}
+
 
 
 .navbar-inverse{
